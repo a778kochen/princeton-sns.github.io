@@ -1,1 +1,1 @@
-# princeton-sns.github.io
+sns.princeton.edu
